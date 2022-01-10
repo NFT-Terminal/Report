@@ -2,7 +2,7 @@
 name: Request Deletion
 about: Request to delete content while using the service.
 title: "[REQUEST DELETION]"
-labels: request
+labels: request deletion
 assignees: NFT-Terminal
 
 ---
